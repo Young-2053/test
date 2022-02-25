@@ -4,5 +4,5 @@ public class Test {
     private String name;
     private String age;
     private String sex;
-    private int a;
+    private int js;
 }
